@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "Mayank Joshi | Full-Stack Developer",
   description:
-    "Personal portfolio of Alex Morgan, a self-taught full-stack developer passionate about building impactful digital experiences.",
+    "Personal portfolio of Mayank Joshi, a self-taught full-stack developer passionate about building impactful digital experiences.",
     generator: 'v0.dev'
 }
 
